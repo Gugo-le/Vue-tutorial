@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 ```
-<img src = ./vt.png>
+<img src = ./vt.png "width: 100, height: 100">
 
 ### Compiles and minifies for production
 ```
