@@ -1,4 +1,4 @@
-# tutorial
+# vue.js 
 
 ## Project setup
 ```
